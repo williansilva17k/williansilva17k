@@ -1,16 +1,29 @@
-### Hi there 👋
+<div>
+    <a target='_blank' href="https://twitter.com/1337WillianS">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://instagram.com/willian.xdxd">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/willianevangelistasilva/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-<!--
-**williansilva17k/williansilva17k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there
 
-Here are some ideas to get you started:
+My name is Willian Evangelista. I currently live in Uberlândia - MG, Brazil. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Detailed information
+
+* **Name**: Willian Evangelista Silva
+* **Age**: 24
+* **Living in**: Uberlândia - Minas Gerais, Brazil
+* **Stack**: PHP - Java - NodeJs
+* **University**: UNITRI - Bachelor Computer Science.
+
+## Curiosities about me
+
+* I used to play a lot football until i got my only and one knee injury which makes me gets into computer so here we are today ¯\_(ツ)_/¯
+* I started with coding using **lua**, trying to do my own things at MTA(Multi Theft auto);
+* I had a "sensei" which teach a lot about programming and he made a huge progress with this knowlegment. Today I just made the same he did for me on the past at the He4rt Developers;
