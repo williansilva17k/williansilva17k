@@ -25,5 +25,5 @@ My name is Willian Evangelista. I currently live in Uberlândia - MG, Brazil.
 
 ## Curiosities about me
 
-* I used to play a lot football until i got my only and one knee injury which makes me gets into computer so here we are today ¯\_(ツ)_/¯
+* I used to play a lot football until i got my only and one knee injury which makes me get into computer so here we are today ¯\_(ツ)_/¯
 * I started with coding using **lua**, trying to do my own things at MTA(Multi Theft auto);
