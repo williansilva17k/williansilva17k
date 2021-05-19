@@ -21,9 +21,9 @@ My name is Willian Evangelista. I currently live in Uberlândia - MG, Brazil.
 * **Living in**: Uberlândia - Minas Gerais, Brazil
 * **Stack**: PHP - Java - NodeJs
 * **University**: UNITRI - Bachelor Computer Science.
+* **Work**: Currently working at Algar Telecom.
 
 ## Curiosities about me
 
 * I used to play a lot football until i got my only and one knee injury which makes me gets into computer so here we are today ¯\_(ツ)_/¯
 * I started with coding using **lua**, trying to do my own things at MTA(Multi Theft auto);
-* I had a "sensei" which teach a lot about programming and he made a huge progress with this knowlegment. Today I just made the same he did for me on the past at the He4rt Developers;
