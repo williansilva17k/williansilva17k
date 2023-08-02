@@ -36,5 +36,5 @@ My name is Willian Evangelista. I currently live in Uberlândia - MG, Brazil.
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williansilva17k)
 
 ## GitHub Stats
-[![Willian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=williansilva17k&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/williansilva17k/)
+[![Willian's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=williansilva17k&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/williansilva17k/)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=williansilva17k&layout=compact&theme=dark#gh-dark-mode-only)
