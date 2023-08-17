@@ -15,7 +15,7 @@ My name is Willian Evangelista. I currently live in Uberlândia - MG, Brazil.
 
 * I used to play a lot football until i got my only and one knee injury which made me get into computer's area... so here we are today ¯\_(ツ)_/¯
 * I started with coding using **lua**, trying to do my own things at MTA(Multi Theft auto) back in "2010-2011?" not sure the year;
-* Then later on i started to study PHP when i got my first jog as an intern, then i migrated to Java while on university, when i accepted a new challenge on a bigger company and since then i still study and work with java nowadays. At this company we used Git svn and have decided to migrate to BitBucket where i had most contact with CI/CD.
+* Then later on i started to study PHP when i got my first job as an intern, then i migrated to Java while on university, when i accepted a new challenge on a bigger company and since then i still study and work with java nowadays. At this company we used Git svn and have decided to migrate to BitBucket where i had most contact with CI/CD.
 
 ## Hard Skills
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
